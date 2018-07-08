@@ -7,13 +7,13 @@ __Today's progress  :__ Worked on kaggle competition - House price prediction - 
 
 __Thoughts :__ Clean the data set and submit it by tomorrow
 
-__Link of work :__ https://github.com/fazrulrahman/100_Days_of_ML_Code
+__Link of work :__ https://github.com/fazrulrahman/House_Price_Prediction
 
 ## Day 2 : July 8, 2018
 
 
-__Today's progress  :__ 
+__Today's progress  :__ Cleaned the test data set and submitted, improved accuracy and gained 1000 places in Kaggle leaderboard.
 
-__Thoughts :__
+__Thoughts :__ Have to handle the data in more professional way
 
-__Link of work :__
+__Link of work :__ https://github.com/fazrulrahman/House_Price_Prediction
