@@ -19,7 +19,7 @@ __Thoughts :__ Have to handle the data in more professional way
 __Link of work :__ https://github.com/fazrulrahman/House_Price_Prediction
 
 
-## Day 2 : July 8, 2018
+## Day 3 : July 9, 2018
 
 __Today's progress  :__ Learning ML -> Backpropogation & Data cleaning
 
