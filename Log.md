@@ -25,3 +25,9 @@ __Today's progress  :__ Learning ML -> Backpropogation & Data cleaning
 
 __Thoughts :__ Learn more
 
+## Day 4 : July 10, 2018
+
+__Today's progress  :__ Learning ML -> research to Code
+
+__Thoughts :__ Learn more
+
