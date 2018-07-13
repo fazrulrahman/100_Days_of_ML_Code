@@ -37,13 +37,13 @@ __Today's progress  :__
 
 __Thoughts :__ Learn more
 
-## Day 6 : July 12, 2018
+## Day 5 : July 12, 2018
 
 __Today's progress  :__ 
 
 __Thoughts :__ Learn more
 
-## Day 7 : July 13, 2018
+## Day 5 : July 13, 2018
 
 __Today's progress  :__ Learning ML -> Improving accuracy for House price prediction Kaggle competition
 
