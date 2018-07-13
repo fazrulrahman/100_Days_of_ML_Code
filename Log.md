@@ -31,3 +31,24 @@ __Today's progress  :__ Learning ML -> research to Code
 
 __Thoughts :__ Learn more
 
+## Day 5 : July 11, 2018
+
+__Today's progress  :__ 
+
+__Thoughts :__ Learn more
+
+## Day 6 : July 12, 2018
+
+__Today's progress  :__ 
+
+__Thoughts :__ Learn more
+
+## Day 7 : July 13, 2018
+
+__Today's progress  :__ Learning ML -> Improving accuracy for House price prediction Kaggle competition
+
+__Thoughts :__ Data need to be analysed a lot before starting prediction
+
+__Link of work :__ https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard/notebook
+
+
