@@ -57,6 +57,11 @@ __Today's progress  :__ Learned KNN
 
 __Thoughts :__ Have to code this
 
+## Day 7 : July 15, 2018
+
+__Today's progress  :__ Learned Naive bayes, D3.js
+
+__Thoughts :__ Have to increse learning time
 <!-- __Link of work :__ https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard/notebook -->
 
 
