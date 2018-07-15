@@ -51,4 +51,12 @@ __Thoughts :__ Data need to be analysed a lot before starting prediction
 
 __Link of work :__ https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard/notebook
 
+## Day 6 : July 14, 2018
+
+__Today's progress  :__ Learned KNN
+
+__Thoughts :__ Have to code this
+
+<!-- __Link of work :__ https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard/notebook -->
+
 
