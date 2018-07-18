@@ -62,6 +62,12 @@ __Thoughts :__ Have to code this
 __Today's progress  :__ Learned Naive bayes, D3.js
 
 __Thoughts :__ Have to increse learning time
+
+## Day 8 : July 18, 2018
+
+__Today's progress  :__ Siraj Video about music generation 
+
+__Thoughts :__ Have to increse learning rate
 <!-- __Link of work :__ https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard/notebook -->
 
 
