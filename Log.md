@@ -67,7 +67,13 @@ __Thoughts :__ Have to increse learning time
 
 __Today's progress  :__ Siraj Video about music generation 
 
-__Thoughts :__ Have to increse learning rate
+__Thoughts :__ Have to increase learning rate
+
+## Day 9 : July 19, 2018
+
+__Today's progress  :__ Andrew NG tutorial video in Youtube
+
+__Thoughts :__ Have to increase learning rate
 <!-- __Link of work :__ https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard/notebook -->
 
 
